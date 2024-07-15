@@ -39,14 +39,14 @@ body {
     color: hsl(218, 44%, 22%);
     font-weight: 700;
     text-align: center;
-    font-size: 30px;
+    font-size: 18px;
     padding: 10px 5px;
 }
 
 .texto{
     color: hsl(220, 15%, 55%);
     font-weight: 400;
-    font-size: 1.2rem;
+    font-size: 1rem;
     text-align: center;
     padding: 5px 5px;
 }
